@@ -1,0 +1,68 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Lato&display=swap"); */
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Roboto&display=swap");
+
+body {
+    font-family: "Lato", sans-serif;
+}
+
+#title-navbar {
+    color: #468b38;
+}
+
+div.row h7 {
+    color: #8a8a8a;
+}
+
+div.col-lg-6 col-12 text-center py-3 placeholder {
+    font-size: 1-rem;
+}
+
+#opsi_text {
+    font-size: 12px;
+}
+
+#valnamatoko {
+    text-decoration: none;
+    color: black;
+}
+
+.clickable {
+    cursor: pointer;
+}
+
+.card-link {
+    color: inherit;
+    padding: 3;
+    text-decoration: none;
+}
+
+.listx {
+    list-style-type: none;
+    padding: 5px;
+}
+
+.custom-card {
+    border-radius: 8px; /* Adjust the value to control the roundness of the corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.custom-card:hover {
+    transform: scale(1.05);
+}
+
+.custom-color-text {
+    color: #575757;
+}
+.custom-button-width {
+    width: 300px;
+}
+
+.custom-link {
+    color: inherit;
+}
+
+#card-toko {
+    border: none;
+    box-shadow: none;
+}
